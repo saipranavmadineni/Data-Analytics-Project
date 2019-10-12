@@ -20,4 +20,4 @@
 
   4).Variables that our dataset contains?
 
-      a).Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power	Seats.
+      a).Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Number of Seats.
