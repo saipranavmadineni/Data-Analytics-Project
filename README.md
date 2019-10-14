@@ -12,7 +12,7 @@
       d).data.world
       e).zigwheels
 
-  3).Size of the our Dataset?
+  3).Size of the Dataset?
 
       a).The dataset we have chosen contains 999 rows and 12 columns.
       b).This also has 31 NaN which is around 3.2% of the data. 
